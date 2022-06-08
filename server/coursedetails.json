@@ -1,0 +1,32 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "React"
+    },
+    {
+      "id": 2,
+      "title": "Html"
+    },
+    {
+      "id": 3,
+      "title": "Css"
+    },
+    {
+      "id": 4,
+      "title": "Bootstarp"
+    },
+    {
+      "id": 5,
+      "title": "Javascript"
+    }
+  ],
+  "enquires": [
+    {
+      "name": "kumar",
+      "age": "24",
+      "courseId": "1",
+      "id": 1
+    }
+  ]
+}
